@@ -1,6 +1,7 @@
 # Youkai-Mountain-Bambu-3DP-Playable-MIDI-and-GCode
 利用Bambu Lab A1 mini播放Midi - 妖怪之山 MIDI & G-code 项目
 
+**项目视频链接：** https://www.bilibili.com/video/BV1bSvHBwEyy/
 
 这里是 arpx4kun。
 
